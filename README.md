@@ -13,3 +13,4 @@ This project will use the following stack:
 - [Postgres](https://www.postgresql.org/) with [ pgvector ](https://github.com/pgvector/pgvector)
 - [shadcn-ui](https://ui.shadcn.com) and [TailwindCSS](https://tailwindcss.com) for styling
 # ai-sdk-rag-starter
+# ai-sdk-rag-starter
